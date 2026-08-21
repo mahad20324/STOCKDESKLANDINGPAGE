@@ -1,6 +1,6 @@
 # StockDesk Inventory — Landing Page
 
-Marketing site for **StockDesk Inventory**, a sales and stock desk for retail shops. Starting in Uganda, priced in UGX, with MTN MoMo and Airtel Money billing.
+Marketing site for **StockDesk Inventory**, inventory and POS control for busy counters. Starting in Uganda, priced in UGX, with MTN MoMo and Airtel Money billing.
 
 Live product app: [app.stockdeskinventory.com](https://app.stockdeskinventory.com)
 
