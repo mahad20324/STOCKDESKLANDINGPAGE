@@ -1728,6 +1728,8 @@ button:focus-visible {
   .hero { padding: 56px 0 80px; }
   .faq-inner { grid-template-columns: 1fr; gap: 36px; }
   .stats { grid-template-columns: repeat(2, 1fr); }
+  .results-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .case-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .confidence-grid { grid-template-columns: 1fr; }
   .purpose-inner { grid-template-columns: 1fr; gap: 44px; }
   .steps-inner { grid-template-columns: 1fr; gap: 44px; }
@@ -1767,6 +1769,8 @@ button:focus-visible {
   .trust-list { gap: 20px; flex-direction: column; }
 
   .stats { grid-template-columns: 1fr; }
+  .results-grid { grid-template-columns: 1fr; }
+  .case-grid { grid-template-columns: 1fr; }
   .purpose-grid { grid-template-columns: 1fr; }
   .quote { padding: 44px 24px 36px; }
   .quote blockquote p { font-size: 17.5px; }
